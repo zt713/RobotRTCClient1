@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="137435829059255"
+    token="571905717472292325" >
+
+    <task
+        name="javac"
+        duration="2582" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1558" />
+    <task
+        name="verifier"
+        duration="682" />
+
+    <artifact
+        location="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="137435829059255" >
+        <artifact
+            location="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

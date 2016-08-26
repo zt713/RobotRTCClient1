@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/blue_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@+id/video_call_page_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/progress_big" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/video_call_page_small" android:background="@drawable/call_page_small_bg" android:layout_width="@dimen/window_small_width" android:layout_height="@dimen/window_small_height" android:layout_marginTop="@dimen/window_small_margin_top" android:layout_marginRight="@dimen/window_small_margin_right" android:layout_alignParentRight="true">
+        <ImageView android:id="@id/progress_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/progress_small" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/call_page_margin_bottom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <ImageButton android:id="@id/camera_call_page" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/control_photo_click" />
+        <ImageButton android:id="@id/hang_up" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:src="@drawable/call_page_btn_click" />
+    </LinearLayout>
+    <ImageButton android:id="@id/call_log_page_btn" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="40.0dip" android:src="@drawable/top_call_log" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="73.0dip" android:layout_height="30.0dip" android:layout_marginLeft="23.0dip" android:layout_marginTop="19.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <ImageButton android:id="@id/go_account3" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/control_account_click" android:scaleType="centerCrop" />
+    </LinearLayout>
+</RelativeLayout>

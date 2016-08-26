@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\window_show.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\anim\\window_show.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\window_close.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\anim\\window_close.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sf_progress_dialog_anim.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\anim\\sf_progress_dialog_anim.xml"
+    }
+]

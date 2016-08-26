@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\popwindow.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sf_view_custom_progress_dialog.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\sf_view_custom_progress_dialog.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_is_called.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_is_called.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_item.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\call_item.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\protocol_show.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\protocol_show.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_failed.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_connect_failed.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_center.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\dialog_center.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_manual.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_connect_manual.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_name_item.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\listview_name_item.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_log_window.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\call_log_window.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\init1.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\init1.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect_help.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_connect_help.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_page.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_call_page.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_connect.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_unarrowed.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\dialog_unarrowed.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connent_capture.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_connent_capture.xml"
+    },
+    {
+        "merged": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control.xml",
+        "source": "H:\\walnut\\API\\tanscorp\\test111\\RobotRTCClient1\\app\\src\\main\\res\\layout\\activity_control.xml"
+    }
+]

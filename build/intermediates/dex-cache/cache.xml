@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\libs\core.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bd6b097588487313f7a94914fb89d44238964977">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\core_f56db685db7cdd2e234c46e4ad88288fcaf10cc8.jar" />
+    </item>
+    <item
+        jar="G:\code\code\studio_sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_24bfdcfb67a3670e10e6f13039d7fce0f272e6c2.jar" />
+    </item>
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_2bac5f49293399f13050b4788b7439caad1e5ca4.jar" />
+    </item>
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e7033afcbc2167d3068bd9180cf32f69832e2fd3">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_08349dfbf0b7aabb48b3d267ab1833a09553c1ea.jar" />
+    </item>
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\libs\media-native.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6afd26e6d2116bdcf6f1db269f74743ec41bdfa5">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\media-native_c16c958c61bb7aee8d488c985536f581b0040d70.jar" />
+    </item>
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\libs\rtcsdk.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a9d1571f76bbd74ffedcbb0f05bf743b372930a5">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\rtcsdk_12d2f262cc0c0e53f2045c41e77db7ca2fff6097.jar" />
+    </item>
+    <item
+        jar="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a7ae8775337a245358aa91772ac75ea1618a9613">
+        <dex dex="H:\walnut\API\tanscorp\test111\RobotRTCClient1\app\build\intermediates\pre-dexed\debug\instant-run_78853e34fcb5624e09ec3a359b49d9cf560f70f1.jar" />
+    </item>
+
+</items>
