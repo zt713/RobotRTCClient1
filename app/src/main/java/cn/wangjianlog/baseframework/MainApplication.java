@@ -23,7 +23,6 @@ import jni.http.HttpManager;
 import jni.http.HttpResult;
 import jni.http.RtcHttpClient;
 import jni.util.Utils;
-import rtc.sdk.clt.DeviceImpl;
 import rtc.sdk.clt.RtcClientImpl;
 import rtc.sdk.common.RtcConst;
 import rtc.sdk.common.SdkSettings;
@@ -51,9 +50,10 @@ public class MainApplication extends Application
   {
     private void ChangeNetWork()
     {
+    	//test1
       //test21
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "ChangeNetWork");
-    }
+
 
     private void onNoNetWork()
     {
