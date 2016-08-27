@@ -48,13 +48,12 @@ public class MainApplication extends Application
   public boolean isAvailable = false;
   DeviceListener mAListener = new DeviceListener()
   {
-    private void ChangeNetWork()
-    {
-    	//test1
+    private void ChangeNetWork() {
+      //test1
       //test21
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "ChangeNetWork");
 
-
+    }
     private void onNoNetWork()
     {
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "onNoNetWork");
