@@ -51,6 +51,7 @@ public class MainApplication extends Application
   {
     private void ChangeNetWork()
     {
+      //test2
       Utils.PrintLog(5, MainApplication.this.LOGTAG, "ChangeNetWork");
     }
 
